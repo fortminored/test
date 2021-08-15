@@ -1,2 +1,2 @@
 # test
-sdf
+This is about WeChat mini program.
